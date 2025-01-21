@@ -11,6 +11,6 @@ Will be updated soon!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![sehwanii's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwanii&show_icons=true&theme=tokyonight)  
+![sehwanii's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwanii&show_icons=true&theme=tokyonight&count_private=true)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sehwan1023)](https://solved.ac/sehwan1023)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehwanii&layout=compact&theme=tokyonight)
