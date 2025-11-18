@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Sehwanii (sehwan1023)
+# 👋 Hi there! I'm sehwanii
 
 ### Full-Stack Developer | Algorithmic Problem Solver
 
@@ -40,9 +40,11 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  ![sehwanii's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwanii&show_icons=true&theme=tokyonight&count_private=true)  
+  
   <!-- Top Languages Card -->
 
+  
+  ![sehwanii's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwanii&show_icons=true&theme=tokyonight&count_private=true)  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehwanii&layout=compact&theme=tokyonight)
 
 </div>
@@ -72,6 +74,4 @@
 
 
 📫 How to reach me: [sehwan1023@gmail.com]
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sehwan1023)](https://solved.ac/sehwan1023)
 
